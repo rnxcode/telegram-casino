@@ -1,0 +1,13 @@
+start: "Привет! Я казино-бот. Выбери режим игры:"
+menu:
+  play: "Играть"
+  change_bet: "Изменить ставку"
+  balance: "Баланс"
+  back: "Назад"
+games:
+  balloon: "Шарик"
+  roulette: "Рулетка"
+  mines: "Мины"
+  tower: "Башня"
+fairness:
+  check: "Проверка честности"

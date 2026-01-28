@@ -1,0 +1,13 @@
+start: "Hello! I’m your casino bot. Choose a game mode:"
+menu:
+  play: "Play"
+  change_bet: "Change bet"
+  balance: "Balance"
+  back: "Back"
+games:
+  balloon: "Balloon"
+  roulette: "Roulette"
+  mines: "Mines"
+  tower: "Tower"
+fairness:
+  check: "Fairness check"
